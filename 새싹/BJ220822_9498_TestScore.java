@@ -19,5 +19,7 @@ public class BJ220822_9498_TestScore {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         whatsMyScore(sc.nextInt());
+
+        sc.close();
     }
 }
