@@ -1,5 +1,4 @@
 import java.util.*;
-import java.math.*;
 // java.math.* - ABS() 함수를 사용하기 위해 math 클래스를 import 함.
 
 public class BJ220829_2420_SafariWorld {
